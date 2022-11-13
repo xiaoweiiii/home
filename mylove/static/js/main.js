@@ -320,9 +320,9 @@
 		if (seconds < "10") { seconds = "0" + seconds; }
 
 		//$("#days").html(days + "<span>Days</span>");
-		$("#hours").html(hours + "<span>Hours</span>");
-		$("#minutes").html(minutes + "<span>Minutes</span>");
-		$("#seconds").html(seconds + "<span>Seconds</span>");		
+		$("#hour").html(hours + "<span>Hours</span>");
+		$("#minute").html(minutes + "<span>Minutes</span>");
+		$("#second").html(seconds + "<span>Seconds</span>");		
 
 }
 
